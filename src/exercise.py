@@ -12,7 +12,7 @@ def main():
     print("And finally, a summary:")
     print(chicken_quantity)
     print(bacon_quantity)
-    print("None!")
+    print("Zero")
 
 if __name__ == '__main__':
     main()
