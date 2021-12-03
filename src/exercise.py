@@ -7,7 +7,7 @@ def main():
     print("Bacon (kg):")
     print(bacon_quantity)
     print("Tractor:")
-    print("None!")
+    print("Zero")
     print()
     print("And finally, a summary:")
     print(chicken_quantity)
